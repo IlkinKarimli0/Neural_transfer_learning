@@ -1,4 +1,5 @@
-#Neural Transfer Project
+# Neural Transfer Project
+
 This is a deep learning project that uses neural transfer to generate a new image by combining the content of one image with the style of another. The project is implemented in a Jupyter notebook file (neural_transfer.ipynb) that you can run locally or on Google Colab.
 
 #How to Use
